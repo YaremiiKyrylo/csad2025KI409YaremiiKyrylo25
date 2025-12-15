@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/GitClone/csad2025KI409YaremiiKyrylo25/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate"
+		},
+		{
+			"file" : "D:/GitClone/csad2025KI409YaremiiKyrylo25/build/_deps/googletest-subbuild/CMakeFiles/73e1dddbf08dffea41e8907ab7dcb328/googletest-populate.rule"
+		},
+		{
+			"file" : "D:/GitClone/csad2025KI409YaremiiKyrylo25/build/_deps/googletest-subbuild/CMakeFiles/536f1870f63e48d704e594911da9d524/googletest-populate-complete.rule"
+		},
+		{
+			"file" : "D:/GitClone/csad2025KI409YaremiiKyrylo25/build/_deps/googletest-subbuild/CMakeFiles/08385d5a7708ab059ae8a86d34c123b6/googletest-populate-build.rule"
+		},
+		{
+			"file" : "D:/GitClone/csad2025KI409YaremiiKyrylo25/build/_deps/googletest-subbuild/CMakeFiles/08385d5a7708ab059ae8a86d34c123b6/googletest-populate-configure.rule"
+		},
+		{
+			"file" : "D:/GitClone/csad2025KI409YaremiiKyrylo25/build/_deps/googletest-subbuild/CMakeFiles/08385d5a7708ab059ae8a86d34c123b6/googletest-populate-download.rule"
+		},
+		{
+			"file" : "D:/GitClone/csad2025KI409YaremiiKyrylo25/build/_deps/googletest-subbuild/CMakeFiles/08385d5a7708ab059ae8a86d34c123b6/googletest-populate-install.rule"
+		},
+		{
+			"file" : "D:/GitClone/csad2025KI409YaremiiKyrylo25/build/_deps/googletest-subbuild/CMakeFiles/08385d5a7708ab059ae8a86d34c123b6/googletest-populate-mkdir.rule"
+		},
+		{
+			"file" : "D:/GitClone/csad2025KI409YaremiiKyrylo25/build/_deps/googletest-subbuild/CMakeFiles/08385d5a7708ab059ae8a86d34c123b6/googletest-populate-patch.rule"
+		},
+		{
+			"file" : "D:/GitClone/csad2025KI409YaremiiKyrylo25/build/_deps/googletest-subbuild/CMakeFiles/08385d5a7708ab059ae8a86d34c123b6/googletest-populate-test.rule"
+		},
+		{
+			"file" : "D:/GitClone/csad2025KI409YaremiiKyrylo25/build/_deps/googletest-subbuild/CMakeFiles/08385d5a7708ab059ae8a86d34c123b6/googletest-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"googletest-populate"
+		],
+		"name" : "googletest-populate"
+	}
+}

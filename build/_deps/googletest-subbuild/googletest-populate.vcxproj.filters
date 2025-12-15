@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\GitClone\csad2025KI409YaremiiKyrylo25\build\_deps\googletest-subbuild\CMakeFiles\08385d5a7708ab059ae8a86d34c123b6\googletest-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\GitClone\csad2025KI409YaremiiKyrylo25\build\_deps\googletest-subbuild\CMakeFiles\08385d5a7708ab059ae8a86d34c123b6\googletest-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\GitClone\csad2025KI409YaremiiKyrylo25\build\_deps\googletest-subbuild\CMakeFiles\08385d5a7708ab059ae8a86d34c123b6\googletest-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\GitClone\csad2025KI409YaremiiKyrylo25\build\_deps\googletest-subbuild\CMakeFiles\08385d5a7708ab059ae8a86d34c123b6\googletest-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\GitClone\csad2025KI409YaremiiKyrylo25\build\_deps\googletest-subbuild\CMakeFiles\08385d5a7708ab059ae8a86d34c123b6\googletest-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\GitClone\csad2025KI409YaremiiKyrylo25\build\_deps\googletest-subbuild\CMakeFiles\08385d5a7708ab059ae8a86d34c123b6\googletest-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\GitClone\csad2025KI409YaremiiKyrylo25\build\_deps\googletest-subbuild\CMakeFiles\08385d5a7708ab059ae8a86d34c123b6\googletest-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\GitClone\csad2025KI409YaremiiKyrylo25\build\_deps\googletest-subbuild\CMakeFiles\08385d5a7708ab059ae8a86d34c123b6\googletest-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\GitClone\csad2025KI409YaremiiKyrylo25\build\_deps\googletest-subbuild\CMakeFiles\536f1870f63e48d704e594911da9d524\googletest-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\GitClone\csad2025KI409YaremiiKyrylo25\build\_deps\googletest-subbuild\CMakeFiles\73e1dddbf08dffea41e8907ab7dcb328\googletest-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\GitClone\csad2025KI409YaremiiKyrylo25\build\_deps\googletest-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\GitClone\csad2025KI409YaremiiKyrylo25\build\_deps\googletest-subbuild\CMakeFiles\googletest-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{510FD93C-977A-3ADC-8CA8-7B90CC81858E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

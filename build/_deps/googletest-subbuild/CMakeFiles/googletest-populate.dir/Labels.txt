@@ -1,0 +1,14 @@
+# Target labels
+ googletest-populate
+# Source files and their labels
+D:/GitClone/csad2025KI409YaremiiKyrylo25/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate
+D:/GitClone/csad2025KI409YaremiiKyrylo25/build/_deps/googletest-subbuild/CMakeFiles/73e1dddbf08dffea41e8907ab7dcb328/googletest-populate.rule
+D:/GitClone/csad2025KI409YaremiiKyrylo25/build/_deps/googletest-subbuild/CMakeFiles/536f1870f63e48d704e594911da9d524/googletest-populate-complete.rule
+D:/GitClone/csad2025KI409YaremiiKyrylo25/build/_deps/googletest-subbuild/CMakeFiles/08385d5a7708ab059ae8a86d34c123b6/googletest-populate-build.rule
+D:/GitClone/csad2025KI409YaremiiKyrylo25/build/_deps/googletest-subbuild/CMakeFiles/08385d5a7708ab059ae8a86d34c123b6/googletest-populate-configure.rule
+D:/GitClone/csad2025KI409YaremiiKyrylo25/build/_deps/googletest-subbuild/CMakeFiles/08385d5a7708ab059ae8a86d34c123b6/googletest-populate-download.rule
+D:/GitClone/csad2025KI409YaremiiKyrylo25/build/_deps/googletest-subbuild/CMakeFiles/08385d5a7708ab059ae8a86d34c123b6/googletest-populate-install.rule
+D:/GitClone/csad2025KI409YaremiiKyrylo25/build/_deps/googletest-subbuild/CMakeFiles/08385d5a7708ab059ae8a86d34c123b6/googletest-populate-mkdir.rule
+D:/GitClone/csad2025KI409YaremiiKyrylo25/build/_deps/googletest-subbuild/CMakeFiles/08385d5a7708ab059ae8a86d34c123b6/googletest-populate-patch.rule
+D:/GitClone/csad2025KI409YaremiiKyrylo25/build/_deps/googletest-subbuild/CMakeFiles/08385d5a7708ab059ae8a86d34c123b6/googletest-populate-test.rule
+D:/GitClone/csad2025KI409YaremiiKyrylo25/build/_deps/googletest-subbuild/CMakeFiles/08385d5a7708ab059ae8a86d34c123b6/googletest-populate-update.rule
